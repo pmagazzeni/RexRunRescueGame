@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 58ca364dd393215488ebe0e50402a7fa
+timeCreated: 1520032559
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone003
+    100004: Bone004
+    100006: Bone005
+    100008: Bone006
+    100010: Bone007
+    100012: Bone008
+    100014: Bone009
+    100016: Bone010
+    100018: Bone011
+    100020: Bone012
+    100022: Bone013
+    100024: Bone014
+    100026: Bone015
+    100028: Bone016
+    100030: Bone017
+    100032: Bone018
+    100034: Bone019
+    100036: Bone020
+    100038: Bone025
+    100040: Bone026
+    100042: Bone027
+    100044: Bone028
+    100046: Bone029
+    100048: Bone030
+    100050: Bone031
+    100052: Bone032
+    100054: Bone033
+    100056: Bone034
+    100058: Box001
+    100060: Box002
+    100062: Box003
+    100064: Box004
+    100066: Box005
+    100068: Box006
+    100070: Box007
+    100072: Plane002
+    100074: Plane003
+    100076: Plane004
+    100078: Plane005
+    100080: Rex
+    100082: //RootNode
+    400000: Bone001
+    400002: Bone003
+    400004: Bone004
+    400006: Bone005
+    400008: Bone006
+    400010: Bone007
+    400012: Bone008
+    400014: Bone009
+    400016: Bone010
+    400018: Bone011
+    400020: Bone012
+    400022: Bone013
+    400024: Bone014
+    400026: Bone015
+    400028: Bone016
+    400030: Bone017
+    400032: Bone018
+    400034: Bone019
+    400036: Bone020
+    400038: Bone025
+    400040: Bone026
+    400042: Bone027
+    400044: Bone028
+    400046: Bone029
+    400048: Bone030
+    400050: Bone031
+    400052: Bone032
+    400054: Bone033
+    400056: Bone034
+    400058: Box001
+    400060: Box002
+    400062: Box003
+    400064: Box004
+    400066: Box005
+    400068: Box006
+    400070: Box007
+    400072: Plane002
+    400074: Plane003
+    400076: Plane004
+    400078: Plane005
+    400080: Rex
+    400082: //RootNode
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Plane002
+    2300016: Plane003
+    2300018: Plane004
+    2300020: Plane005
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Plane002
+    3300016: Plane003
+    3300018: Plane004
+    3300020: Plane005
+    4300000: Rex
+    4300002: Plane002
+    4300004: Plane003
+    4300006: Plane004
+    4300008: Box007
+    4300010: Box006
+    4300012: Box002
+    4300014: Box005
+    4300016: Box004
+    4300018: Box003
+    4300020: Box001
+    4300022: Plane005
+    7400000: Neutral
+    7400002: Idel
+    7400004: Walk
+    7400006: Run
+    7400008: Jump
+    7400010: Fall
+    7400012: Wall
+    9500000: //RootNode
+    13700000: Rex
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Neutral
+      takeName: Take 001
+      firstFrame: -1
+      lastFrame: -1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone004/Bone003
+        weight: 1
+      - path: Bone004/Bone003/Bone001
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone012
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone025
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone034
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Box003
+        weight: 1
+      - path: Bone004/Bone003/Box001
+        weight: 1
+      - path: Bone004/Bone005
+        weight: 1
+      - path: Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020/Box006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027/Box007
+        weight: 1
+      - path: Bone004/Bone005/Box002
+        weight: 1
+      - path: Bone004/Bone013
+        weight: 1
+      - path: Bone004/Bone013/Bone014
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016/Box004
+        weight: 1
+      - path: Bone004/Bone033
+        weight: 1
+      - path: Bone004/Bone033/Bone030
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026/Box005
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane003
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane005
+        weight: 1
+      - path: Rex
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idel
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone004/Bone003
+        weight: 1
+      - path: Bone004/Bone003/Bone001
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone012
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone025
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone034
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Box003
+        weight: 1
+      - path: Bone004/Bone003/Box001
+        weight: 1
+      - path: Bone004/Bone005
+        weight: 1
+      - path: Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020/Box006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027/Box007
+        weight: 1
+      - path: Bone004/Bone005/Box002
+        weight: 1
+      - path: Bone004/Bone013
+        weight: 1
+      - path: Bone004/Bone013/Bone014
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016/Box004
+        weight: 1
+      - path: Bone004/Bone033
+        weight: 1
+      - path: Bone004/Bone033/Bone030
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026/Box005
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane003
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane005
+        weight: 1
+      - path: Rex
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone004/Bone003
+        weight: 1
+      - path: Bone004/Bone003/Bone001
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone012
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone025
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone034
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Box003
+        weight: 1
+      - path: Bone004/Bone003/Box001
+        weight: 1
+      - path: Bone004/Bone005
+        weight: 1
+      - path: Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020/Box006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027/Box007
+        weight: 1
+      - path: Bone004/Bone005/Box002
+        weight: 1
+      - path: Bone004/Bone013
+        weight: 1
+      - path: Bone004/Bone013/Bone014
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016/Box004
+        weight: 1
+      - path: Bone004/Bone033
+        weight: 1
+      - path: Bone004/Bone033/Bone030
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026/Box005
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane003
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane005
+        weight: 1
+      - path: Rex
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 81
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone004/Bone003
+        weight: 1
+      - path: Bone004/Bone003/Bone001
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone012
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone025
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone034
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Box003
+        weight: 1
+      - path: Bone004/Bone003/Box001
+        weight: 1
+      - path: Bone004/Bone005
+        weight: 1
+      - path: Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020/Box006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027/Box007
+        weight: 1
+      - path: Bone004/Bone005/Box002
+        weight: 1
+      - path: Bone004/Bone013
+        weight: 1
+      - path: Bone004/Bone013/Bone014
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016/Box004
+        weight: 1
+      - path: Bone004/Bone033
+        weight: 1
+      - path: Bone004/Bone033/Bone030
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026/Box005
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane003
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane005
+        weight: 1
+      - path: Rex
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone004/Bone003
+        weight: 1
+      - path: Bone004/Bone003/Bone001
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone012
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone025
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone034
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Box003
+        weight: 1
+      - path: Bone004/Bone003/Box001
+        weight: 1
+      - path: Bone004/Bone005
+        weight: 1
+      - path: Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020/Box006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027/Box007
+        weight: 1
+      - path: Bone004/Bone005/Box002
+        weight: 1
+      - path: Bone004/Bone013
+        weight: 1
+      - path: Bone004/Bone013/Bone014
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016/Box004
+        weight: 1
+      - path: Bone004/Bone033
+        weight: 1
+      - path: Bone004/Bone033/Bone030
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026/Box005
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane003
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane005
+        weight: 1
+      - path: Rex
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fall
+      takeName: Take 001
+      firstFrame: 135
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone004/Bone003
+        weight: 1
+      - path: Bone004/Bone003/Bone001
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone012
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone025
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone034
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Box003
+        weight: 1
+      - path: Bone004/Bone003/Box001
+        weight: 1
+      - path: Bone004/Bone005
+        weight: 1
+      - path: Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020/Box006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027/Box007
+        weight: 1
+      - path: Bone004/Bone005/Box002
+        weight: 1
+      - path: Bone004/Bone013
+        weight: 1
+      - path: Bone004/Bone013/Bone014
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016/Box004
+        weight: 1
+      - path: Bone004/Bone033
+        weight: 1
+      - path: Bone004/Bone033/Bone030
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026/Box005
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane003
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane005
+        weight: 1
+      - path: Rex
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wall
+      takeName: Take 001
+      firstFrame: 126
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone004/Bone003
+        weight: 1
+      - path: Bone004/Bone003/Bone001
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone012
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone025
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Bone034
+        weight: 1
+      - path: Bone004/Bone003/Bone001/Box003
+        weight: 1
+      - path: Bone004/Bone003/Box001
+        weight: 1
+      - path: Bone004/Bone005
+        weight: 1
+      - path: Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone017/Bone018/Bone019/Bone020/Box006
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027
+        weight: 1
+      - path: Bone004/Bone005/Bone006/Bone032/Bone029/Bone028/Bone027/Box007
+        weight: 1
+      - path: Bone004/Bone005/Box002
+        weight: 1
+      - path: Bone004/Bone013
+        weight: 1
+      - path: Bone004/Bone013/Bone014
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Bone004/Bone013/Bone014/Bone015/Bone016/Box004
+        weight: 1
+      - path: Bone004/Bone033
+        weight: 1
+      - path: Bone004/Bone033/Bone030
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026
+        weight: 1
+      - path: Bone004/Bone033/Bone030/Bone031/Bone026/Box005
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane003
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane005
+        weight: 1
+      - path: Rex
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
